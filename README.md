@@ -1,4 +1,7 @@
-# FAKE NEWS DETECTOR
-Fake news detection using NLP and Machine Learning.
+<div align="center">
+    <h1>FAKE NEWS DETECTOR</h1>
+</div>
 
-### Model Accuracy: 96%
+## About
+A NLP and Machine Learning based web application used for detecting fake news. Uses NLP for preprocessing the input text. Uses XGBoost model for predicting whether the input news is Fake or Real. <br>
+Link for Deployed WebApplication: https://kvg-fake-news-detector.herokuapp.com
